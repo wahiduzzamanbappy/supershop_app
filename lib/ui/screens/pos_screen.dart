@@ -52,7 +52,7 @@ class _POSScreenState extends State<POSScreen> {
           SizedBox(height: 420, child: _cartAndPOSSection()),
         ],
       )
-      // ─────────── 💻 / 🖥️ TABLET & DESKTOP (split screen) ───────────
+      // ─────────── TABLET & DESKTOP (split screen) ───────────
           : Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
